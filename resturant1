@@ -33,7 +33,7 @@
     <div class="col-sm-6">
       <div class="lead">Pick a Restaurant</div>
       <ul class="list-unstyled">
-        <li><a href="#" onclick="toggleMenu(this)" id="mongolian">Mongolian BBQ</a></li>
+        <li><a href="#" onclick="toggleMenu(this)" id="mongolian">Mongolian BBQ</a><span>$ 12.00 </span></li>
         <li><a href="#" id ="falafeldr" onclick="toggleMenu(this)" >Falafel Drive</a></li>
         <li><a href="#" id ="pizza" onclick="toggleMenu(this)" >Pizza Chicago</a></li>
         <li><a href="#" id="labamba" onclick="toggleMenu(this)" >La Bamba</a></li>
